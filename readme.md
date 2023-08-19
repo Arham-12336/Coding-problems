@@ -23,23 +23,6 @@ git clone [git@github.com:AM-Coding-Practice/Coding-problems.git]
 
 5. **Share Your Solution**: If you'd like to share your solution with the community, feel free to submit a pull request. We welcome contributions from all developers!
 
-## Repository Structure
-
-The repository is organized as follows:
-
-├── problems
-│ ├── problem1.py
-│ ├── problem2.py
-│ ├── ...
-│ └── problemN.py
-├── tests
-│ ├── test_problem1.py
-│ ├── test_problem2.py
-│ ├── ...
-│ └── test_problemN.py
-└── README.md
-
-
 ## Contribution Guidelines
 
 We appreciate contributions from the community! If you have a new coding problem to add or an improvement to an existing one, please follow these guidelines:
